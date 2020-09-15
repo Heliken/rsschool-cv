@@ -1,8 +1,8 @@
 # 1. Filip Bursh
 ## 2. Contacts
--**Email:** burshf@gmail.com
--**Telegram:** @Mr_Highway
--**Skype:** burshf
+- **Email:** burshf@gmail.com
+- **Telegram:** @Mr_Highway
+- **Skype:** burshf
 ## 3. Info
 My goal is to become a junior front-end developer in a year. 
 ## 4. Skills
